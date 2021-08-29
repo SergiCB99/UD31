@@ -1,0 +1,28 @@
+*{
+    background-color: black;
+    font-family: 'Bebas Neue';
+    color: white;
+}
+.logo{
+    width: 200px;
+    height: 50px;
+}
+.menu_superior{
+    padding:0px;
+    display: flex;
+}
+.notificaciones{
+    display: flex;
+    position:absolute; 
+    right:0;
+    padding-right: 7px;
+}
+.documentales{
+    display: flex;
+}
+.volver_a_ver{
+    display: flex;
+}
+.contenido{
+    padding:10px;
+}
